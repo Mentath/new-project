@@ -12,4 +12,4 @@ git commit -m "Add instructions to the README.md"
 git checkout main
 git merge development
 git remote add origin https://github.com/Mentath/new-project.git
-git push
+git push -u origin main
